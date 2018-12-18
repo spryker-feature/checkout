@@ -6,10 +6,10 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-shop/checkout-page": "^1.7.0",
+    "spryker-shop/checkout-page": "^1.7.1",
     "spryker-shop/checkout-widget": "^1.1.0",
-    "spryker/checkout": "^4.2.0",
-    "spryker/dummy-payment": "^2.3.1",
-    "spryker/step-engine": "^3.1.4"
+    "spryker/checkout": "^4.2.1",
+    "spryker/dummy-payment": "^2.4.0",
+    "spryker/step-engine": "^3.2.0"
   }
 }
