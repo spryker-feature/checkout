@@ -10,7 +10,7 @@
     "spryker-shop/checkout-page": "^2.1.0",
     "spryker-shop/checkout-widget": "^1.2.0",
     "spryker/checkout": "^6.0.0",
-    "spryker/dummy-payment": "^2.4.0",
+    "spryker/dummy-payment": "^2.5.0",
     "spryker/step-engine": "^3.2.0"
   },
   "extra": {
