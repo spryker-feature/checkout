@@ -16,3 +16,4 @@ composer require spryker-feature/checkout
 - [OrderPaymentsRestApi ^1.0.0](https://github.com/spryker/order-payments-rest-api) (Glue)
 - [OrderPaymentsRestApiExtension ^1.0.0](https://github.com/spryker/order-payments-rest-api-extension) (Extension)
 - [ShipmentCheckoutConnector](https://github.com/spryker/shipment-checkout-connector) (Connector)
+- [StepEngineExtension ^1.0.0](https://github.com/spryker/step-engine-extension) (Extension)
