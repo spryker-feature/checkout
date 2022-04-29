@@ -12,7 +12,7 @@
         "spryker-shop/sales-order-threshold-widget": "^1.1.0",
         "spryker/checkout": "^6.3.0",
         "spryker/dummy-payment": "^2.6.0",
-        "spryker/sales-order-threshold": "^1.4.0",
+        "spryker/sales-order-threshold": "^1.6.0",
         "spryker/sales-order-threshold-data-import": "^0.1.0",
         "spryker/sales-order-threshold-gui": "^1.6.0",
         "spryker/step-engine": "^3.4.0"
