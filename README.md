@@ -9,7 +9,7 @@ composer require spryker-feature/checkout
 ```
 
 ## Optional modules
-- [CheckoutExtension ^1.3.0](https://github.com/spryker/checkout-extension) (Extension)
+- [CheckoutExtension ^1.4.0](https://github.com/spryker/checkout-extension) (Extension)
 - [Shop.CheckoutPageExtension](https://github.com/spryker-shop/checkout-page-extension) (Extension)
 - [CheckoutRestApi ^3.7.0](https://github.com/spryker/checkout-rest-api) (Glue)
 - [CheckoutRestApiExtension](https://github.com/spryker/checkout-rest-api-extension) (Extension)
