@@ -6,20 +6,20 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
-        "spryker-shop/checkout-page": "^3.20.0",
+        "php": ">=8.0",
+        "spryker-shop/checkout-page": "^3.21.0",
         "spryker-shop/checkout-widget": "^1.4.0",
         "spryker-shop/sales-order-threshold-widget": "^1.1.0",
-        "spryker/checkout": "^6.3.0",
-        "spryker/dummy-payment": "^2.6.0",
-        "spryker/sales-order-threshold": "^1.6.0",
+        "spryker/checkout": "^6.4.0",
+        "spryker/dummy-payment": "^2.7.0",
+        "spryker/sales-order-threshold": "^1.7.0",
         "spryker/sales-order-threshold-data-import": "^0.1.0",
-        "spryker/sales-order-threshold-gui": "^1.6.0",
+        "spryker/sales-order-threshold-gui": "^1.8.0",
         "spryker/step-engine": "^3.4.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
