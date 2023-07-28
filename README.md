@@ -2,6 +2,8 @@
 
 Define Payment & Shipment Methods, Multi-Step Checkout
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/checkout-feature-overview/checkout-feature-overview.html)
+
 ## Installation
 
 ```
