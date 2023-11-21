@@ -13,7 +13,7 @@ composer require spryker-feature/checkout
 ## Optional modules
 - [CheckoutExtension ^1.4.0](https://github.com/spryker/checkout-extension) (Extension)
 - [Shop.CheckoutPageExtension](https://github.com/spryker-shop/checkout-page-extension) (Extension)
-- [CheckoutRestApi ^3.7.0](https://github.com/spryker/checkout-rest-api) (Legacy Glue)
+- [CheckoutRestApi ^3.9.0](https://github.com/spryker/checkout-rest-api) (Legacy Glue)
 - [CheckoutRestApiExtension](https://github.com/spryker/checkout-rest-api-extension) (Extension)
 - [OrderPaymentsRestApi ^1.0.0](https://github.com/spryker/order-payments-rest-api) (Legacy Glue)
 - [OrderPaymentsRestApiExtension ^1.0.0](https://github.com/spryker/order-payments-rest-api-extension) (Extension)
