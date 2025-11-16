@@ -14,12 +14,12 @@
         "spryker/dummy-payment": "^2.8.0",
         "spryker/sales-order-threshold": "^1.12.0",
         "spryker/sales-order-threshold-data-import": "^0.1.0",
-        "spryker/sales-order-threshold-gui": "^1.10.0",
+        "spryker/sales-order-threshold-gui": "^2.0.0",
         "spryker/step-engine": "^3.7.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     }
 }
