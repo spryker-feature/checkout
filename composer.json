@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/checkout-page": "^3.39.0",
+        "spryker-shop/checkout-page": "^3.40.0",
         "spryker-shop/checkout-widget": "^1.4.0",
         "spryker-shop/sales-order-threshold-widget": "^1.1.0",
-        "spryker/checkout": "^6.9.0",
+        "spryker/checkout": "^6.10.0",
         "spryker/dummy-payment": "^2.8.0",
         "spryker/sales-order-threshold": "^1.13.0",
         "spryker/sales-order-threshold-data-import": "^0.1.0",
@@ -19,7 +19,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     }
 }
