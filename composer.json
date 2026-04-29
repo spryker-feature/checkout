@@ -14,7 +14,7 @@
         "spryker/dummy-payment": "^2.8.0",
         "spryker/sales-order-threshold": "^1.13.0",
         "spryker/sales-order-threshold-data-import": "^0.1.0",
-        "spryker/sales-order-threshold-gui": "^2.0.0",
+        "spryker/sales-order-threshold-gui": "^2.2.0",
         "spryker/step-engine": "^3.7.0"
     },
     "extra": {
