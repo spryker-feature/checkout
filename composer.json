@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/checkout-page": "^3.40.0",
+        "spryker-shop/checkout-page": "^3.42.0",
         "spryker-shop/checkout-widget": "^1.4.0",
         "spryker-shop/sales-order-threshold-widget": "^1.1.0",
         "spryker/checkout": "^6.10.0",
@@ -19,7 +19,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     }
 }
